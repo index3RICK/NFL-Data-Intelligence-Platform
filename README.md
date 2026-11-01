@@ -303,8 +303,8 @@ Fuente: [nflverse-data](https://github.com/nflverse/nflverse-data).
 
 ## 👨‍💻 Autor
 
-**Erick**  
-Tecnólogo en Software | Junior Data Engineering
+**Erick Chicaiza**  
+Tecnólogo en Software | Data Engineering
 
 GitHub: [@index3RICK](https://github.com/index3RICK)
 
